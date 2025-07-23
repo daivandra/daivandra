@@ -1,4 +1,4 @@
-![daivandra](img//Users/daivandraramasatyapurwanata/Desktop/github-header-image.png)
+![daivandra](image-1.png)
 
 ### 💫 About Me:
 🏫 I’m currently studying at Brawijaya University,  majoring in Information Systems, Faculty of Computer Science<br>👯 I’m looking to collaborate on open-source projects, hackathons, or anything that challenges my logic.<br>🤝 I’m looking for help with mastering backend development, clean code practices, and building scalable systems.<br>🌱 I’m currently learning full-stack development — from crafting sleek UIs to optimizing APIs.<br>💬 Ask me about debugging nightmares, favorite VS Code extensions, or why dark mode is life.<br>⚡ Fun fact: I once fixed a bug at 3AM that turned out to be a missing semicolon. Classic.
@@ -16,3 +16,18 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daivandra&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+<h3 align="left">Plays Games With me 🤩🫶</h3>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daivandra/daivandra/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daivandra/daivandra/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daivandra/daivandra/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/daivandra/daivandra/output/snake.svg" alt="Snake animation" />
+
+###
